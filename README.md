@@ -11,7 +11,6 @@ I'm on a coding adventure, exploring the web universe. Currently, I'm diving dee
 - Tailwind CSS
 - MongoDB
 - Express
-- Django (just a sprinkle)
 
 ### 📊 My GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kindnesskay&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
