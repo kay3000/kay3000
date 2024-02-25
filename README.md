@@ -1,7 +1,7 @@
 # Hey, 👋 I'm kay
 
 ### 🚀 About Me
-I'm on a coding adventure, exploring the web universe. Currently, i'm exploring the world of JavaScript, React, and Next.js . I spice things up with Firebase magic, style vibes with Tailwind CSS, and dive into data seas with MongoDB. Oh, and I'm sprinkling a bit of Django into the mix for some extra flavor.
+I'm on a coding adventure, exploring the web universe. Currently, i'm exploring the world of JavaScript, React, and Next.js . I spice things up with Firebase magic, style vibes with Tailwind CSS, and dive into data seas with MongoDB.
 
 ### 💻 Tech Stack
 - JavaScript
