@@ -19,6 +19,7 @@ I'm on a coding adventure, exploring the web universe. Currently, i'm exploring 
 ### 🌟 What's Cooking?
 I'm always cooking up some cool projects and experimenting with new ideas. Let's collaborate and create something awesome together!
 - [shopbay](https://shopbay.vercel.app)
+- [Random-project](https://random-project-generator.vercel.app)
 
 ### 📫 Let's Connect
 Feel free to reach out and let's chat about code, tech, or anything in between. Let the coding adventures begin! 🌈✨
