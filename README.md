@@ -23,4 +23,4 @@ I'm always cooking up some cool projects and experimenting with new ideas. Let's
 
 ### 📫 Let's Connect
 Feel free to reach out and let's chat about code, tech, or anything in between. Let the coding adventures begin! 🌈✨
-- Twitter: [@officialkay_ok](https://twitter.com/officialLordKay)
+- Twitter: [@officialLordKay](https://twitter.com/officialLordKay)
