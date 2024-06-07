@@ -8,6 +8,7 @@ I'm on a coding adventure, exploring the web universe. Currently, i'm exploring 
 - Typescript
 - React
 - Next.js
+- Angular
 - Express
 - Tailwind CSS
 - Firebase
