@@ -19,12 +19,12 @@ I'm on a coding adventure, exploring the web universe. Currently, i'm exploring 
 
 ### 🌟 What's Cooking?
 I'm always cooking up some cool projects and experimenting with new ideas. Let's collaborate and create something awesome together!
-- [Shopbay](https://shopbay.vercel.
+- [Shopbay:E-commerce site](https://shopbay.vercel.app)
 - [InkWell:bogging platform](https://blog-frontend-74.vercel.app)
 - [E-shop](https://eshop-nine-beta.vercel.app)
 - [Random-project](https://random-project-generator.vercel.app)
 - [Quiz-web-app](https://simple-quiz-beryl.vercel.app/)
-- [Green-hat](https://greenhat.vercel.app)
+- [Green-hat: Trade tracker](https://greenhat.vercel.app)
 
 
 ### 📫 Let's Connect
