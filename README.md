@@ -22,6 +22,7 @@ I'm always cooking up some cool projects and experimenting with new ideas. Let's
 - [Shopbay : E-commerce site](https://shopbay.vercel.app)
 - [InkWell : bogging platform](https://inknot.vercel.app)
 - [E-shop](https://eshop-nine-beta.vercel.app)
+- [finance-dashboard](https://finance-dashboard-xx.vercel.app) 
 - [Random-project](https://random-project-generator.vercel.app)
 - [Quiz-web-app](https://simple-quiz-beryl.vercel.app/)
 - [Green-hat : Trade tracker](https://greenhat.vercel.app)
