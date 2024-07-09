@@ -26,7 +26,6 @@ I'm always cooking up some cool projects and experimenting with new ideas. Let's
 - [simple-landing/page ](https://first-angular-web-app.vercel.app/) 
 - [Random-project](https://random-project-generator.vercel.app)
 - [Quiz-web-app](https://simple-quiz-beryl.vercel.app/)
-- [Green-hat : Trade tracker simple version ](https://greenhat.vercel.app)
 - [Green-hat-app: Trade tracker](https://greenhatapp.vercel.app)
 ### 📫 Let's Connect
 Feel free to reach out and let's chat about code, tech, or anything in between. Let the coding adventures begin! 🌈✨
