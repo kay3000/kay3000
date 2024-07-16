@@ -20,7 +20,7 @@ I'm on a coding adventure, exploring the web universe. Currently, i'm exploring 
 ### 🌟 What's Cooking?
 I'm always cooking up some cool projects and experimenting with new ideas. Let's collaborate and create something awesome together!
 - [Shopbay : E-commerce site](https://shopbay.vercel.app)
-- [InkWell : bogging platform](https://inknot.vercel.app)
+- [Inknot : bogging platform](https://inknot.vercel.app)
 - [E-shop](https://eshop-nine-beta.vercel.app)
 - [finance-dashboard](https://finance-dashboard-xx.vercel.app)
 - [simple-landing/page ](https://first-angular-web-app.vercel.app/) 
